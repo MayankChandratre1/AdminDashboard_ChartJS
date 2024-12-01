@@ -144,7 +144,7 @@ const Dashboard = () => {
   const [data, setData] = React.useState<DashboardData | null>(null);
 
     React.useEffect(() => {
-        fetch("http://localhost:3001/")
+        fetch("https://admin-dashboard-chart-js-pdfi.vercel.app/")
         .then((res) => res.json())
         .then((data) => {
             console.log(data.status);
