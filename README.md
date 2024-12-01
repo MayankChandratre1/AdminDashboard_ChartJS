@@ -1,6 +1,4 @@
-Here's a structured README for your **Admin Analytics Dashboard using Chart.js and Next.js** project:
 
----
 
 # Admin Analytics Dashboard 📊  
 An analytics dashboard built using **Next.js-15**, **Chart.js**, and **Shadcn UI**, designed to provide a visually engaging and user-friendly interface for analyzing data trends and insights.
