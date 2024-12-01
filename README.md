@@ -4,6 +4,10 @@
 An analytics dashboard built using **Next.js-15**, **Chart.js**, and **Shadcn UI**, designed to provide a visually engaging and user-friendly interface for analyzing data trends and insights.
 
 ---
+## 🌐 Check Live At: [Live Demo](https://admin-dashboard-chart-js.vercel.app/)
+---
+The Backend URL provided with the assignment was not working ( CORS Error ) So tried using my own backend that resturns same data as theirs. ( Full Stack Development )
+---
 
 ## 🚀 Features  
 
